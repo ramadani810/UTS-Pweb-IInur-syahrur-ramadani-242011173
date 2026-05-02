@@ -21,14 +21,14 @@
 
 {{-- ABOUT --}}
 <section id="about" class="section-padding border-top">
-    <h2 class="text-center text-primary-custom mb-4">About</h2>
+    <h2 class="text-center text-primary-custom mb-4">About Me</h2>
 
         <div class="row align-items-center">
 
         <div class="col-md-6">
             <p>
-                Saya adalah Mahasiswa Teknik Informatika Semester 4 yang suka website
-                Walaupun belum mahir, saya tetap tidak menyerah untuk belajar. 
+                    Nama saya Nur Syahrur Ramadani. Saya adalah Mahasiswa Teknik Informatika Semester 4 yang suka website, tetapi masih jauh dari kata mahir dalam pemrograman.
+                Walaupun demikian, saya tetap tidak menyerah untuk belajar dan terus belajar, disamping itu saya merasa diri saya sangat lambat dalam menerima materi. 
             </p>
         </div>
 
@@ -60,12 +60,12 @@
     
     <!-- Foto 3 -->
     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
-        <img src="IMG/fes1.jpeg" class="img-fluid rounded shadow-sm" alt="Project 3" style="height: 200px; width: 100%; object-fit: cover;">
+        <img src="IMG/fesban_dipo.jpeg" class="img-fluid rounded shadow-sm" alt="Project 3" style="height: 200px; width: 100%; object-fit: cover;">
     </div>
     
     <!-- Foto 4 -->
     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
-        <img src="IMG/fes4.jpeg" class="img-fluid rounded shadow-sm" alt="Project 4" style="height: 200px; width: 100%; object-fit: cover;">
+        <img src="IMG/fesban_unisma.jpeg" class="img-fluid rounded shadow-sm" alt="Project 4" style="height: 200px; width: 100%; object-fit: cover;">
     </div>
 </div>
     </div>
